@@ -1,8 +1,9 @@
 node_modules/
 .expo/
 dist/
+assetsFile/
 npm-debug.*
-*.jks
+*.jks 
 *.p8
 *.p12
 *.key
